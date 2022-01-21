@@ -1,0 +1,74 @@
+.heading {
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    font-family: 'Luxurious Roman', cursive;
+}
+
+.note {
+    font-size: 17px;
+    color: black;
+}
+
+body {
+    background-size: cover;
+}
+
+.div_speed {
+    float: left;
+
+}
+
+.div_speed_img {
+    width: 200px;
+    border-radius: 100px;
+}
+
+#speed {
+    font-size: 20px;
+    margin: 15px;
+}
+
+.div_volume {
+    float: right;
+}
+
+.div_volume_img {
+    width: 200px;
+    border-radius: 100px;
+}
+
+#volume {
+    font-size: 20px;
+    margin: 15px;
+
+}
+
+.copy_right_footer {
+    text-align: center;
+    width: 100%;
+    line-height: 2;
+    bottom: 0;
+    color: black;
+    position: fixed;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: lime;
+    font-family: 'Luxurious Roman', cursive;
+    
+
+
+}
+
+.play_button
+{
+    width: 120px;
+    font-size: 25px;
+
+}
+
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+}
